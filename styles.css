@@ -1,0 +1,22 @@
+:root {
+--azul: #1e56c8;
+--azul-escuro: #10265c;
+--amarelo: #ffc531;
+--amarelo-claro: #fff3cf;
+--fundo: #f6f8ff;
+--texto:#1b2440;
+--texto-suave:#5b6784;
+--branco: #ffffff;
+
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+body{
+    font-family: "poppins",Arial,sans-serif;
+    background: var(--fundo);
+}
